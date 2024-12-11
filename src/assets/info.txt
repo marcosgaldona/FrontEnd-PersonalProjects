@@ -1,0 +1,1 @@
+En assets se suele poner archivos estáticos que tu aplicación necesita, como imágenes, fuentes, iconos, y otros recursos que no son parte del código pero son utilizados en la interfaz o el diseño de la aplicación.
